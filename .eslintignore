@@ -1,0 +1,9 @@
+node_modules
+.next
+output
+build/*
+public/*
+docs/*
+templates/*
+src/env.d.ts
+src/serviceWorker.ts
